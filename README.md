@@ -6,7 +6,7 @@ A Python project to help set up a deployment configuration in Meraki SM.
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/meraki-configurator.git
+   git clone https://github.com/usmc0341/meraki_configurator.git
 
 2. Change directory to the cloned repository:
 
@@ -26,7 +26,7 @@ A Python project to help set up a deployment configuration in Meraki SM.
 
 2. Run the script:
 
-   python src/meraki-configurator.py
+   python meraki-configurator.py
 
    Follow the prompts to create a new target group or add a tag to devices.
 
