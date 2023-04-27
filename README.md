@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Meraki Configurator
 
 A Python project to help set up a deployment configuration in Meraki SM.
@@ -60,3 +61,6 @@ README.md
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+=======
+# meraki_configurator
+>>>>>>> origin/main
