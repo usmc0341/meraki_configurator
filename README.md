@@ -2,23 +2,6 @@
 
 A Python project to help set up a deployment configuration in Meraki SM.
 
-## Project Structure
-
-meraki-configurator/
-    src/
-        __init__.py
-        main.py
-        create_target_group.py
-        tag_devices.py
-    data/
-        config/
-            __init__.py
-            default.yaml
-    log/
-        meraki_configurator.log
-    requirements.txt
-README.md
-
 ## Installation
 
 1. Clone the repository:
