@@ -1,0 +1,3 @@
+meraki:
+  api_key: YOUR_API_KEY
+  network_id: YOUR_NETWORK_ID
