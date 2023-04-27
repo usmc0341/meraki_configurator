@@ -1,0 +1,18 @@
+# .gitignore
+
+# Ignore config and log files
+data/config/default.yaml
+log/
+
+# Ignore Python cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore other files that should not be committed
+*.log
+*.bak
+*.swp
+*.swo
+*.egg-info/
