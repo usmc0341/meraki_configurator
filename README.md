@@ -2,6 +2,12 @@
 
 A Python project to help set up a deployment configuration in Meraki SM.
 
+## Requirements
+1. A Meraki dashboard API token
+      https://documentation.meraki.com/General_Administration/Other_Topics/Cisco_Meraki_Dashboard_API
+2. Your target network ID in Meraki
+3. A list of device serial numbers or Wifi Mac Addresses(can be pulled from Meraki)
+
 ## Installation
 
 1. Clone the repository:
