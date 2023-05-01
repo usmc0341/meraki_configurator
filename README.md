@@ -46,9 +46,9 @@ A Python project to help set up a deployment configuration in Meraki SM.
 
   Adds a tag to a list of devices in the specified Meraki network.
 
-## License
+### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 =======
-# meraki_configurator
+### meraki_configurator
 
